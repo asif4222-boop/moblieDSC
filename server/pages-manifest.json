@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/dashboard": "pages/dashboard.js",
+  "/login": "pages/login.js",
+  "/upload": "pages/upload.js",
+  "/webview": "pages/webview.js",
+  "/certificate": "pages/certificate.js",
+  "/settings": "pages/settings.js",
+  "/history": "pages/history.js"
+}
